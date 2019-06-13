@@ -1,3 +1,5 @@
+# Search for files and show permissions
+
 import stat, sys, os, string, commands
 
 #Getting search pattern from user and assigning it to a list
