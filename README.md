@@ -1,4 +1,4 @@
-# Python_for_Administerators
+# Python_for_Administrators
 Hey I'm Biswajeet panda, Here you will understand how python is used for admins.
 
 # Making system administration easier (and more fun)
